@@ -37,10 +37,8 @@ __PEDNET COLUMN DESCRIPTIONS__
 * __px_type__: crosswalk control flag
 * __length__: length of segment
 
-![alt text](C:/githubprojects/dav_cot_walkability/Pednet.JPG "Title")
-![alt text](C:\githubprojects\dav_cot_walkability\Pednet.JPG "Title")
 ![alt text](Pednet.JPG)
-https://github.com/gcc-dav-official-github/dav_cot_walkability/blob/master/Pednet.JPG
+
 
 ### Research Question Definitions ###
 
