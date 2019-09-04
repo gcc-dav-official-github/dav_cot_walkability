@@ -70,8 +70,4 @@ ts = crosswalk is controlled by traffic light
 
 ### Research Question Definitions ###
 Walk times to closest TTC stops 
-from every 
-### Analysis and Visualization ###
-Step 1 - clean
-
-### Conclusion and Next Steps ###
+from every address
